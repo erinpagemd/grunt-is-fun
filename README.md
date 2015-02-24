@@ -1,6 +1,6 @@
 # grunt-is-fun
 
-'''
+```
 "devDependencies": {
   "grunt": "^0.4.5",
   "grunt-contrib-clean": "^0.6.0",
@@ -12,4 +12,4 @@
   "load-grunt-tasks": "^2.0.0"
 }
 
-'''
+```
